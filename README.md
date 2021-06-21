@@ -1,5 +1,5 @@
 # Sistema de Recomendaciones de Videojuego
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bruino/recommender-system-games/blob/master/sist_recomendaci%C3%B3n_de_videojuegos.ipynb)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Status Project](https://img.shields.io/static/v1?label=status&message=under%20review&color=orange)
 
@@ -13,7 +13,7 @@ Librerías usadas:
 - LightFM (basado en contenidos)
 
 ### Repositorios relacionados
-[Web Scraping Steam Review Like/Dislike](https://github.com/bruino/scraping-reviews-steam)
+- [Web Scraping Steam Review Like/Dislike](https://github.com/bruino/scraping-reviews-steam)
 
 
 ### Datasets
