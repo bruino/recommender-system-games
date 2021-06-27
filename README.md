@@ -12,6 +12,10 @@ Librerías usadas:
 - Surprise (modelo colaborativo)
 - LightFM (basado en contenidos)
 
+### Notebooks
+- [Proyecto 3](sist_recomendación_de_videojuegos__proyecto_3.ipynb)
+- [Proyecto 4](sist_recomendación_de_videojuegos__proyecto_4.ipynb) (final)
+
 ### Repositorios relacionados
 - [Web Scraping Steam Review Like/Dislike](https://github.com/bruino/scraping-reviews-steam)
 
